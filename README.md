@@ -2,9 +2,9 @@
 microservice with springboot
 
 TODO:
-- discovery registry : Netlix Eureka
-- api-gateway : Netlix Zuul
-- circuit-breaker : Netflix Hystrix
+- discovery registry : Netflix Eureka
+- api-gateway : Netflix Zuul
+- circuit-breaker : Netfflix Hystrix
 - config : spring cloud Config Server
 
 `user-service`
